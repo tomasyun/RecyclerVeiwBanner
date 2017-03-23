@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RVBanner">
+        <attr name="pointFocusBg" format="color" />
+        <attr name="pointUnfocusBg" format="color" />
+        <attr name="interval" format="integer" /><!--间隔-->
+        <attr name="isShowPoint" format="boolean" />
+    </declare-styleable>
+</resources>
